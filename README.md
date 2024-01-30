@@ -65,19 +65,19 @@ Align financial planning with strategic goals and:
     - Execute Extract, Transform, Load (ETL) processes effectively.
 
 - **Power Query Date Table Generation:**
-    - Demonstrate skills in generating date tables using [Power Query](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Power%20Query.pdf).
+    - Demonstrate skills in generating date tables using Power Query.
 
 - **Fiscal Months and Quarters Derivation:**
     - Ability to derive fiscal months and quarters for detailed analysis.
 
 - **Power Pivot Data Model Relationships:**
-    - Establish strong data model relationships with [Power Pivot](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Power%20Pivot.pdf) for robust analytics.
+    - Establish strong data model relationships with Power Pivot for robust analytics.
 
 - **Supplementary Data Incorporation:**
     - Proficiently incorporate supplementary data into existing data models for comprehensive insights.
 
 - **DAX for Calculated Columns:**
-    - Utilize Data Analysis Expressions ([DAX](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/DAX.pdf)) to create calculated columns for enhanced data interpretation.
+    - Utilize Data Analysis Expressions DAX to create calculated columns for enhanced data interpretation.
 
 ## Soft Skills:
 
