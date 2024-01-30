@@ -39,7 +39,7 @@ Enable the organization to:
 2. **Market-wise P&L Reports:**
     - Generate P&L reports categorized by [Markets](https://github.com/ShreekantRaghuwanshi/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) to understand financial trends across different regions.
 
- 3 .**fiscal Year month-wise P&L Reports:**
+ 3. **fiscal Year month-wise P&L Reports:**
     - Generate P&L reports categorized by [fiscal Year month-wise](https://github.com/ShreekantRaghuwanshi/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand financial trends over different fiscal year and months.
 
 ### Purpose of Sales Analytics:
